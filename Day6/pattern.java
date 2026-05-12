@@ -2,7 +2,7 @@
 
 
 import java.util.*;
-public class patterns{
+public class pattern{
     public static void main(String args[]){
 
         for(int line=1; line<=4; line++){
@@ -22,7 +22,7 @@ public class patterns{
 
 
 import java.util.*;
-public class patterns{
+public class pattern{
     public static void main(String args[]){
 
          int n =4;
@@ -41,7 +41,7 @@ public class patterns{
 
 
 import java.util.*;
-public class patterns{
+public class pattern{
     public static void main(String args[]){
 
          int n =4;
@@ -60,7 +60,7 @@ public class patterns{
 // -----------------------------------------------------------------------------------
 
 import java.util.*;
-public class patterns{
+public class pattern{
     public static void main(String args[]){
 
          int n =4;
